@@ -4,6 +4,8 @@ description: 'Paper Assignments: First Paper Assignment'
 file: /courses/21l-450-literature-and-ethical-values-fall-2002/244a75a92f897940f641ca4f4e1c74c3_paperassignment1.pdf
 file_size: 83662
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

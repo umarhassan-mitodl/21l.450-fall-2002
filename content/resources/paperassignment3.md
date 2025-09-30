@@ -4,6 +4,8 @@ description: 'Paper Asiignments: Third Paper Assignment'
 file: /courses/21l-450-literature-and-ethical-values-fall-2002/5c6138ae3f16d5d830c98f8e1dca9273_paperassignment3.pdf
 file_size: 107590
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
