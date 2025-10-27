@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 8b2e0cf6-469e-2ddb-b0cb-ea8eedf7c1fe
 ---
-Many of the readings may be downloaded as excerpts in PDF format or, in complete form, from the [Project Gutenberg](http://gutenberg.org/) site. Those available for download have a direct link to the text listed next to the bibliographic entry.
+Many of the readings may be downloaded as excerpts in PDF format or, in complete form, from the {{% resource_link "e4bccbac-a34c-42e6-a6c7-12e8a6d46a09" "Project Gutenberg" %}} site. Those available for download have a direct link to the text listed next to the bibliographic entry.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -20,7 +20,7 @@ TOPICS
 
 Introduction
 
-*Genesis*. ([download from Project Gutenberg site](http://www.gutenberg.org/wiki/Main_Page))
+*Genesis*. ({{% resource_link "2fbf81e4-aad3-41c6-8b7b-ac49b2227127" "download from Project Gutenberg site" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -54,9 +54,9 @@ Aristotle. Excerpt from *Nichomachean Ethics.* (continued)
 8
 {{< tdclose >}}{{< tdopen >}}
 
-Excerpt from *The Gospel According to St Matthew.* ([download from Project Gutenberg site](http://www.gutenberg.org/wiki/Main_Page))
+Excerpt from *The Gospel According to St Matthew.* ({{% resource_link "2fbf81e4-aad3-41c6-8b7b-ac49b2227127" "download from Project Gutenberg site" %}})
 
-Dante. *Inferno.* ([download from Project Gutenberg site](http://www.gutenberg.org/wiki/Main_Page))
+Dante. *Inferno.* ({{% resource_link "2fbf81e4-aad3-41c6-8b7b-ac49b2227127" "download from Project Gutenberg site" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -105,7 +105,7 @@ Mill, J.S. Excerpts from *Utilitarianism.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Dostoyevsky. *Crime and Punishment.* Part I. ([download from Project Gutenberg site](http://www.gutenberg.org/wiki/Main_Page))
+Dostoyevsky. *Crime and Punishment.* Part I. ({{% resource_link "2fbf81e4-aad3-41c6-8b7b-ac49b2227127" "download from Project Gutenberg site" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -121,7 +121,7 @@ Dostoyevsky. *Crime and Punishment.* Part VI; Epilogue.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-Conrad. *The Secret Sharer*. ([download from Project Gutenberg site](http://www.gutenberg.org/wiki/Main_Page))
+Conrad. *The Secret Sharer*. ({{% resource_link "2fbf81e4-aad3-41c6-8b7b-ac49b2227127" "download from Project Gutenberg site" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
