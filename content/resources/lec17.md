@@ -4,8 +4,6 @@ description: ''
 file: /courses/21l-450-literature-and-ethical-values-fall-2002/24bed9826c4e89be0d200f41f4a5d645_lec17.pdf
 file_size: 128943
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
